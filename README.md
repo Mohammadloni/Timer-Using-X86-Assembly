@@ -1,2 +1,2 @@
 # Timer_Assembly
-This is simple timer with assembly language for ATmega16 micro-controller that I developed this code approximately 4 years ago
+This is a simple timer with assembly language for the ATmega16 microcontroller.
